@@ -1,0 +1,22 @@
+sep=,
+id,nombre,carrera,materias,hobbies,horario_disponible
+1,Ana Torres,Ingeniería de Sistemas,Cálculo I;Programación I;Física I,ajedrez;lectura;videojuegos,Lun-8am;Mar-2pm;Jue-8am
+2,Carlos Ruiz,Ingeniería de Sistemas,Cálculo I;Programación I;Matemáticas Discretas I,fútbol;videojuegos;música,Lun-8am;Mie-10am;Vie-2pm
+3,Laura Gómez,Ingeniería de Sistemas,Cálculo I;Física I;Química,lectura;pintura;cine,Mar-2pm;Jue-8am;Vie-4pm
+4,Diego Martínez,Ingeniería Industrial,Cálculo I;Álgebra Lineal;Química,fútbol;natación;música,Lun-2pm;Mar-8am;Sab-10am
+5,María Fernández,Ingeniería de Sistemas,Programación I;Matemáticas Discretas I;Inglés I,ajedrez;videojuegos;cocina,Mie-10am;Jue-8am;Vie-2pm
+6,Andrés López,Ingeniería de Sistemas,Cálculo I;Programación I;Física I,videojuegos;música;cine,Lun-8am;Mar-2pm;Jue-4pm
+7,Valentina Ríos,Ingeniería Industrial,Álgebra Lineal;Química;Inglés I,natación;pintura;lectura,Lun-2pm;Mar-8am;Sab-10am
+8,Santiago Vargas,Ingeniería de Sistemas,Programación I;Matemáticas Discretas I;Cálculo I,ajedrez;fútbol;lectura,Lun-8am;Mie-10am;Jue-8am
+9,Camila Herrera,Ingeniería Electrónica,Física I;Álgebra Lineal;Química,pintura;música;cine,Mar-8am;Jue-4pm;Sab-10am
+10,Juan Pablo Cruz,Ingeniería de Sistemas,Cálculo I;Programación I;Inglés I,videojuegos;fútbol;cocina,Lun-8am;Mar-2pm;Vie-2pm
+11,Isabella Moreno,Ingeniería de Sistemas,Matemáticas Discretas I;Programación I;Física I,ajedrez;lectura;cine,Mie-10am;Jue-8am;Vie-4pm
+12,Sebastián Ortiz,Ingeniería Industrial,Álgebra Lineal;Química;Cálculo I,natación;fútbol;música,Lun-2pm;Mar-8am;Jue-4pm
+13,Daniela Castro,Ingeniería de Sistemas,Programación I;Cálculo I;Matemáticas Discretas I,videojuegos;ajedrez;pintura,Lun-8am;Mie-10am;Vie-2pm
+14,Nicolás Ramírez,Ingeniería Electrónica,Física I;Álgebra Lineal;Inglés I,música;cine;natación,Mar-8am;Jue-4pm;Sab-10am
+15,Gabriela Suárez,Ingeniería de Sistemas,Cálculo I;Física I;Programación I,lectura;cocina;videojuegos,Lun-8am;Mar-2pm;Jue-8am
+16,Tomás Pineda,Ingeniería Industrial,Química;Álgebra Lineal;Inglés I,fútbol;natación;pintura,Lun-2pm;Mar-8am;Sab-10am
+17,Sofía Jiménez,Ingeniería de Sistemas,Matemáticas Discretas I;Cálculo I;Inglés I,ajedrez;cine;lectura,Mie-10am;Jue-8am;Vie-4pm
+18,Mateo Restrepo,Ingeniería de Sistemas,Programación I;Física I;Matemáticas Discretas I,videojuegos;música;ajedrez,Lun-8am;Jue-8am;Vie-2pm
+19,Paula Navarro,Ingeniería Electrónica,Álgebra Lineal;Química;Física I,natación;pintura;cocina,Mar-8am;Sab-10am;Vie-4pm
+20,Felipe Aguilar,Diseño Gráfico,Historia del Arte;Dibujo;Fotografía,pintura;cine;fotografía,Dom-10am;Dom-4pm;Sab-6pm

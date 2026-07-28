@@ -1,6 +1,6 @@
 sep=,
 id,nombre,carrera,materias,hobbies,horario_disponible
-1,Ana Torres,Ingeniería de Sistemas,Cálculo I;Programación I;Física I,ajedrez;lectura;videojuegos,Lun-8am;Mar-2pm;Jue-8am
+1,Ana Torres,Ingeniería de Sistemas,Cálculo I;Programación I;Física I,cocina;lectura;videojuegos,Lun-8am;Mar-2pm;Jue-8am
 2,Carlos Ruiz,Ingeniería de Sistemas,Cálculo I;Programación I;Matemáticas Discretas I,fútbol;videojuegos;música,Lun-8am;Mie-10am;Vie-2pm
 3,Laura Gómez,Ingeniería de Sistemas,Cálculo I;Física I;Química,lectura;pintura;cine,Mar-2pm;Jue-8am;Vie-4pm
 4,Diego Martínez,Ingeniería Industrial,Cálculo I;Álgebra Lineal;Química,fútbol;natación;música,Lun-2pm;Mar-8am;Sab-10am
